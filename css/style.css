@@ -1,0 +1,83 @@
+body{
+    background-color: rgba(43, 80, 140, 0.69);
+}
+#div1{
+    background-image: url(../images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px;
+    background-size: contain;
+ text-align: center;
+ height:  1200px;
+ width: 848px;
+ border: 0.5cm double;
+ 
+}
+
+
+#div2{
+    border: 2px solid;
+    border-radius: 10%;
+    height:350px;
+    width: 300px;
+    text-align: center;
+    margin-top: 1cm;
+}
+img{
+    height:350px;
+    width: 300px;
+    border-radius: 10%;
+}
+
+#div3{
+    background-color:transparent;
+    width: 845px;
+    text-align: center;
+    border-top: 0.3cm groove rgb(133, 13, 13);
+    border-bottom:0.3cm groove rgb(133, 13, 13);
+    margin-top: 0.5cm;
+    font-size: 25px;
+}
+.p1{
+    color: #000;
+    text-shadow: 3px 5px 5px brown;
+    font-family: "Kode Mono", monospace;
+}
+.p2{
+        text-shadow: 3px 5px 5px brown;
+        font-family: "Kode Mono", monospace;
+}
+#div4{
+    font-family: "Kode Mono", monospace;
+    border: double;
+    height:200px;
+    width: 510px;
+    background-color:darksalmon;
+    text-align: justify;    
+}
+#div5{
+    font-family: "Protest Revolution", sans-serif ;
+   border-top: 15px dashed darkslategrey;
+   border-bottom: 15px dashed darkslategrey;
+   height:190px;
+}
+h1{
+    color: rgb(177, 97, 0);
+}
+table{
+    border:solid brown;
+    border-collapse:collapse;
+    background-color: bisque;
+}
+th{
+    border:solid brown;
+    border-collapse:collapse;
+}
+tr{
+    border:solid brown;
+    border-collapse:collapse;
+}
+td{
+    border:solid brown;
+    border-collapse:collapse;
+}
